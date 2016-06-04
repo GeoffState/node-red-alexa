@@ -1,0 +1,8 @@
+{
+  "name": "node-red alexa",
+  "description": "node-red with alexa nodes installed.",
+  "repository": "https://github.com/mattotodd/node-red-alexa",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node-red", "alexa"],
+  "addons": ["heroku-redis:hobby-dev"]
+}
